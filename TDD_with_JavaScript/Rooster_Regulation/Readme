@@ -1,0 +1,4 @@
+Fast, complete, reliable, isolated, maintainable, and expressive test suite (index_test.js)
+for testing Rooster object (index.js).
+
+It uses the Mocha test framework and assert methods from the Node.js standard library. 
