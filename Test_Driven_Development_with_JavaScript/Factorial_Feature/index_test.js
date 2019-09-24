@@ -3,7 +3,7 @@ var Calculate =  require('../index.js')
 
 describe('Calculate', () => {
   describe('.factorial', () => {
-	it('Returns 120 if input is 5', () => {
+	  it('Returns 120 if input is 5', () => {
       // Setup
       const inputNumber = 5;
       const expectedResult = 120;
